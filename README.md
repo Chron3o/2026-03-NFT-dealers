@@ -89,7 +89,7 @@ Compatibilities:
 
 Build:
 ```bash
-git clone [repo here]
+git clone https://github.com/CodeHawks-Contests/2026-03-NFT-dealers.git
 
 forge install 
 
