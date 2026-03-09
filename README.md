@@ -1,16 +1,9 @@
-# Protocol Name 
+# NFT Dealers
 
+- Starts: March 12, 2026 Noon UTC
+- Ends: March 19, 2026 Noon UTC
 
-### Prize Pool TO BE FILLED OUT BY CYFRIN
-
-- Total Pool - 
-- H/M -  
-- Low - 
-
-- Starts: 
-- Ends: 
-
-- nSLOC: 
+- nSLOC: 253
 
 [//]: # (contest-details-open)
 
