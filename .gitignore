@@ -15,4 +15,6 @@ docs/
 
 # Libraries
 lib/*
-!lib/openzeppelin-contracts
+!lib/openzeppelin-contractsgitkey
+gitkey.pub
+gitkey
